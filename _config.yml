@@ -27,7 +27,7 @@ email: arendta@uw.edu
 is_production: true
 
 # Sites.
-ghw_site: "https://geohackweek.github.io"
+ghw_site: "https://engr-rudn.github.io/pyee01Notes/"
 ghw_github: "https://github.com/geohackweek"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
