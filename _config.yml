@@ -10,7 +10,7 @@ kind: "lesson"
 title: "Raster processing using Python Tools"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/geohackweek/raster
+repo: https://github.com/engr-rudn/raster
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
@@ -28,7 +28,7 @@ is_production: true
 
 # Sites.
 ghw_site: "https://engr-rudn.github.io/pyee01Notes/#schedule"
-ghw_github: "https://github.com/geohackweek"
+ghw_github: "https://github.com/engr-rudn"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
